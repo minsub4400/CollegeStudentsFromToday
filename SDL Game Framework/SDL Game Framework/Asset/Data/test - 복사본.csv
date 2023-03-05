@@ -1,0 +1,644 @@
+페이지 인덱스,페이지 타입,배경 이미지,배경음악,캐릭터1,캐릭터1위치,캐릭터2,캐릭터2 위치,캐릭터3,캐릭터3 위치,대사,다음 페이지 인덱스,선택지1,선택지1 인덱스,선택지2,선택지2 인덱스,효과음
+3,0,studentid.png,music23.mp3,$,$,$,$,$,$,,0,$,$,$,$,$
+4,0,backgroundimage2.png,music2.mp3,$,$,$,$,$,$,"내 이름은 유하진. 22살.
+올해 경일대학교에 입학한 새내기다.
+그리고... 삼수생이다.",0,$,$,$,$,$
+5,0,backgroundimage2.png,,$,$,$,$,$,$,"내가 이 대학에 입학하기 전까지 당했던 수모를 생각하면
+아직도 치가 떨리는 기분이다.",0,$,$,$,$,$
+6,0,backgroundimage3.png,,$,$,$,$,$,$,"이미 좋은 직장에 취직하고서 나한테
+아 그렇게 하는 거 아닌데
+하면서 훈수를 두기 시작한 사촌…",0,$,$,$,$,$
+7,0,backgroundimage3.png,,$,$,$,$,$,$,"그리고 자신의 아들이자 내 사촌 동생이
+나보다 더 좋은 학교에 합격했다고
+내가 들어간 대학은 하찮게 여기며 놀리던 큰아버지…",0,$,$,$,$,$
+8,0,backgroundimage4.png,,$,$,$,$,$,$,"그 명절날을 떠올리면 저절로
+수원 왕갈비 통닭이 나오는 영화의 명대사가 생각났다.
+이것은 명절인가 지옥인가…",0,$,$,$,$,$
+9,0,backgroundimage5.png,,$,$,$,$,$,$,"하지만 아무리 최선이 아니더라도
+고생고생해서 들어온 대학교다.",0,$,$,$,$,$
+10,0,backgroundimage5.png,,character18_left.png,0,$,$,$,$,"나 유하진!
+이 대학교를 훌륭히 졸업하고 취업의 꿈도 이루고 말겠어!",0,$,$,$,$,$
+11,0,backgroundimage6.png,music3.mp3,character1_left.png,0,$,$,$,$,"오늘은 오리엔테이션이 있는 날.
+처음 사람들이 모이는 자리의 공기는
+기대감과 긴장감이 섞인 미묘한 공기다.",0,$,$,$,$,$
+12,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,"그 어중간한 공간을 비집고 
+선배들이 자신을 학생회라 소개하며 강의실로 들어온다.",0,$,$,$,$,$
+13,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,"맡는 것을 좋아하는 선배들의 소개는
+적당히 집중하고 적당히 흘리면서 듣다가",0,$,$,$,$,$
+14,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,“다음은 수강신청 오리엔테이션을 하겠습니다.”,0,$,$,$,$,$
+15,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,"잠시 강의실 밖으로 나눠놨던 집중을
+선배의 말을 향해 돌려놓는다.",0,$,$,$,$,$
+16,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,"어떤 교수님은 A학점 폭격기라거나
+어떤 교수님은 지각 몇 번만 있어도 재수강을 각오해야 한다거나",0,$,$,$,$,$
+17,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,"이 교양은 재미있고 유익한 꿀강이라 추천한다
+저 교양은 전공만큼 빡세다 같은 이야기를 스마트폰 메모에 받아 적는다.",0,$,$,$,$,$
+18,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,"“아¸ 그리고 수강신청은 스마트폰 어플에서도 되는데
+가급적 PC방이나 인터넷 좋은 집컴에서 하는 게 좋아요.”",0,$,$,$,$,$
+19,0,backgroundimage6.png,,character1_left.png,0,character17_right.png,2,$,$,그것이 강의실 오리엔테이션의 마지막 말이었다.,0,$,$,$,$,$
+20,0,backgroundimage7.png,music4.mp3,$,$,$,$,$,$,"며칠 후¸ 학교에서 멀지 않은 근교의 리조트에서 하는
+2박 3일 새내기 배움터에 왔다.",0,$,$,$,$,$
+21,0,backgroundimage7.png,,$,$,$,$,$,$,"초중고 시절의 수련회를 연상케 하는 레크리에이션 활동들이 많이 있었지만
+정말 즐겁다거나 유익하거나 한 느낌은 아니었고",0,$,$,$,$,$
+22,0,backgroundimage8.png,,$,$,$,$,$,$,"1일차의 밤이 되었을 때
+새터의 메인 이벤트는 뒤풀이 술자리라는 것을 알았다.",0,$,$,$,$,$
+23,0,backgroundimage8.png,,$,$,$,$,$,$,"어엿한 성인이 되었다는 즐거움 같은 걸까.
+친해지는 계기를 만들기 위함일까.",0,$,$,$,$,$
+24,0,backgroundimage8.png,,$,$,$,$,$,$,"술은 처음이라 두려움은 많았지만
+같이 친해지자는 그 특유의 분위기에 올라탔다.",0,$,$,$,$,$
+25,0,backgroundimage8.png,,$,$,$,$,$,$,그리고 이튿날 밤…,0,$,$,$,$,$
+26,0,backgroundimage8.png,music5.mp3,character36_left.png,0,$,$,$,$,"“공산당¸ 공산당!
+ 동무¸ 마시라우!”",0,$,$,$,$,$
+27,0,backgroundimage8.png,,character36_left.png,0,$,$,$,$,…귀가하는 일정밖에 남지 않은 마지막 날은 더더욱 분위기가 달아올랐다.,0,$,$,$,$,$
+28,0,backgroundimage8.png,,character36_left.png,0,$,$,$,$,"그 분위기에 따라가다 보니
+이전까진 느낀 적 없었던 어질어질한 기분이 들기 시작한다.",0,$,$,$,$,$
+29,0,backgroundimage8.png,,character36_left.png,0,character37_right.png,2,$,$,"이때¸ 다른 곳에서 놀고 있던 선배 한 명이 내 앞에 놀러 왔다.
+오리엔테이션 때 수강신청 팁을 알려주던 그 선배다.",0,$,$,$,$,$
+30,0,backgroundimage8.png,,character36_left.png,0,character37_right.png,2,$,$,"“유하진 맞지?
+ 같이 한잔할래?”",0,$,$,$,$,$
+31,0,backgroundimage8.png,,character36_left.png,0,character37_right.png,2,$,$,"다른 조에 있었던 선배라 한 잔 받는 것도 좋을 것 같은데…
+처음 느껴보는 알딸딸함에 조금 정신 없다.",0,$,$,$,$,$
+32,1,backgroundimage8.png,,character36_left.png,0,character37_right.png,2,$,$,,0,술을 받는다.,33,술을 거절한다.,36,$
+33,0,backgroundimage9.png,,$,$,$,$,$,$,"선배들과 친해지는 것도 중요한 공부다!
+그렇게 하고 흔쾌히 선배의 술잔을 받았다.",0,$,$,$,$,$
+34,0,backgroundimage9.png,,$,$,$,$,$,$,어…? 생각보다 술이 좀 받는다!,0,$,$,$,$,$
+35,0,backgroundimage10.png,music6.mp3,$,$,$,$,$,$,"제정신으로 무사히 다음날 아침을 맞이했다.
+호기롭게 받는 대로 마시던 동기들이
+화장실에서 전을 부치던 모습을 받아주는 건 조금 힘들었지만…",39,$,$,$,$,$
+36,0,backgroundimage8.png,music7.mp3,character36_left.png,0,$,$,$,$,"머리가 좀 어질어질한 게 아무래도 한 잔 더 하면 실수할 것 같다.
+아쉽지만 이만 잠자러 가보기로 했다.",0,$,$,$,$,$
+37,0,backgroundimage12.png,,$,$,$,$,$,$,"먼저 술을 거하게 마시고 의식을 잃은 자들이 모이는 방¸
+이른바 ‘시체방'에 들어가 적당히 빈자리에 누워 잠을 청했다.",0,$,$,$,$,$
+38,0,backgroundimage11.png,,$,$,$,$,$,$,"아침에 눈을 떴을 땐¸
+어느 방이나 폭격을 맞은 듯 어질러져 있는 아수라장을 목격할 수 있었다…",0,$,$,$,$,$
+39,0,backgroundimage13.png,,character18_left.png,0,$,$,$,$,"새터에 다녀온 다음 날.
+드디어 대학 생활의 첫 수강신청 날.",0,$,$,$,$,$
+40,0,backgroundimage13.png,,character1_left.png,0,character38_right.png,2,$,$,"…은 수강신청에 몰두할 예정이었는데…
+지방에 사는 친구가 어렵게 시간을 내 올라왔다길래 밖에 나와있다.",0,$,$,$,$,$
+41,0,backgroundimage13.png,,character16_left.png,0,character38_right.png,2,$,$,"이제 곧 수강신청 시간이 다가오는데…
+어렵게 온 친구 앞에서 일 있다고 잠깐 자리를 비우겠다고 하자니 그닥 내키진 않는다.",0,$,$,$,$,$
+42,1,backgroundimage13.png,,character16_left.png,0,character38_right.png,2,$,$,,0,급한 대로 스마트폰으로 한다.,43,양해를 구하고 근처 PC방에 간다.,54,$
+43,0,backgroundimage13.png,music8.mp3,character1_left.png,0,character38_right.png,2,$,$,소중한 친구를 앞에 두고 잠깐 내 볼일 보러 자리를 뜨겠다 말하기는 역시 좀 어렵다.,0,$,$,$,$,$
+44,0,backgroundimage14.png,,character1_left.png,0,character38_right.png,2,$,$,"1학년은 어차피 듣는 전공이 정해져있고 교양 2과목만 잘 신청하면 되니
+급한대로 스마트폰에 학교 어플로 접속해 수강신청을 하기로 했다.",0,$,$,$,$,$
+45,0,backgroundimage15.png,,character11_left.png,0,character38_right.png,2,$,$,"""이번에 내가 취업 준비를 해야 하는데 면접이…
+…오후 01:59:38]",0,$,$,$,$,$
+46,0,backgroundimage15.png,,character11_left.png,0,character38_right.png,2,$,$,"…친구의 말과 스마트폰 화면의 글씨가 마구 섞인다.
+어느 한 쪽도 도무지 집중이 되지 않는다.",0,$,$,$,$,$
+47,0,backgroundimage15.png,,character11_left.png,0,$,$,$,$,……,0,$,$,$,$,$
+48,0,backgroundimage16.png,,character11_left.png,0,$,$,$,$,[해당 수업은 정원이 초과되어 신청할 수 없습니다.],0,$,$,$,$,$
+49,0,backgroundimage16.png,,character3_left.png,0,$,$,$,$,,0,$,$,$,$,sound1.mp3
+50,0,backgroundimage16.png,,character8_left.png,0,$,$,$,$,…수강 신청이 꼬여버렸다.,0,$,$,$,$,$
+51,0,backgroundimage17.png,music9.mp3,character1_left.png,0,character37_right.png,2,$,$,"개강 날¸ 캠퍼스에 등교했을 때 새터에서 봤던 선배를 우연히 만났다.
+나는 선배에게 원하는 교양 과목을 신청 못 했다고 말했다.",0,$,$,$,$,$
+52,0,backgroundimage17.png,,character1_left.png,0,character37_right.png,2,$,$,"""그러면 수업 정정 기간 있어.
+ 그때 한 번 다시 시도해 봐.""",0,$,$,$,$,$
+53,0,backgroundimage17.png,,character13_left.png,0,character37_right.png,2,$,$,"아 참¸ 그런 수가 있었다.
+수강 정정 날에 다시 한번 시도해 볼 수 있을 것 같다.",66,$,$,$,$,$
+54,0,backgroundimage18.png,,character1_left.png,0,$,$,$,$,"친구를 잠시 혼자 두는 게 내키지는 않았지만
+잠깐 양해를 구하고 근처 PC방에 향했다.",0,$,$,$,$,$
+55,0,backgroundimage18.png,,character1_left.png,0,$,$,$,$,"왼쪽에는 학교 수강 신청 홈페이지를¸
+오른쪽에는 띄워놓는 게 좋다고 하던 서버 시간 사이트를 띄워둔다.",0,$,$,$,$,$
+56,0,backgroundimage18.png,,character1_left.png,0,$,$,$,$,"[오후 01:59:49….
+오후 01:59:50…]",0,$,$,$,$,$
+57,0,backgroundimage18.png,music10.mp3,character11_left.png,0,$,$,$,$,,0,$,$,$,$,$
+58,0,backgroundimage18.png,music11.mp3,character11_left.png,0,$,$,$,$,"이 PC방에서 또 다른 누군가가 수강신청을 하는 중인지
+PC방에 울린 알람 소리에 온 신경이 곤두선다.",0,$,$,$,$,$
+59,0,backgroundimage18.png,,character11_left.png,0,$,$,$,$,다행히 아직 56초…,0,$,$,$,$,$
+60,0,backgroundimage18.png,,character11_left.png,0,$,$,$,$,57초… 58초… 59초…,0,$,$,$,$,$
+61,0,backgroundimage18.png,,character11_left.png,0,$,$,$,$,지금이다!,0,$,$,$,$,$
+62,0,backgroundimage18.png,,character11_left.png,0,$,$,$,$,……,0,$,$,$,$,$
+63,0,backgroundimage19.png,music12.mp3,character14_left.png,0,$,$,$,$,[수강 신청이 완료되었습니다.],0,$,$,$,$,$
+64,0,backgroundimage19.png,music9.mp3,character14_left.png,0,$,$,$,$,"휴… 원하던 교양 과목 2개를 무사히 신청했다.
+이제 다시 친구에게 돌아가 보자.",0,$,$,$,$,$
+65,0,backgroundimage19.png,,character14_left.png,0,$,$,$,$,이번은 나의 승리다.,0,$,$,$,$,$
+66,0,backgroundimage5.png,music13.mp3,$,$,$,$,$,$,"학기 전부터 파란만장한 일을 겪고
+개강 첫 주가 시작되었다.",0,$,$,$,$,$
+67,0,backgroundimage5.png,,$,$,$,$,$,$,"첫 주는 정정 기간도 있고 해서
+모든 수업이 오리엔테이션이라는 이름으로 순식간에 끝났고 
+그때마다 영겁의 우주 공강이 이어졌다.",0,$,$,$,$,$
+68,0,backgroundimage20.png,,character1_left.png,0,character41_mid.png,1,$,$,"그래서 아직 학교가 어색한 1학년들은
+수업이 끝날 때마다 우루루 과방으로 모여들었다.",0,$,$,$,$,$
+69,0,backgroundimage20.png,,character1_left.png,0,character40_right.png,2,$,$,"그때¸ 과 학생회 선배 한 명이 과방에 문을 열고 들어오더니
+많은 사람에 놀랐는지 흠칫하고 뒷걸음질을 친다.",0,$,$,$,$,$
+70,0,backgroundimage20.png,,character1_left.png,0,character39_right.png,2,$,$,"“1학년 때는 다들 이렇게 지내는 거지.”
+그러다가 이런 말을 하고 금방 다시 자연스럽게 과방에 들어온다.",0,$,$,$,$,$
+71,0,backgroundimage20.png,,character1_left.png,0,character39_right.png,2,$,$,"“아¸ 마침 1학년들 과방에 모여있으니 이야기하는 게 좋겠다.
+ 과잠 공동 구매할 사람 받고 있는데 신청할 사람 있어?”",0,$,$,$,$,$
+72,0,backgroundimage20.png,,character16_left.png,0,character39_right.png,2,$,$,"몇몇 동기들은 고민 없이 신청하고 싶다고 대답하고
+당장 대답이 나오지 않은 동기를 향해 과잠 안내서가 전해졌다.",0,$,$,$,$,$
+73,0,backgroundimage20.png,,character16_left.png,0,character39_right.png,2,$,$,"동기들을 돌고 돌아 드디어 안내서를 받게 되었다.
+과잠 디자인은 그럭저럭 나쁘지 않아 보인다.",0,$,$,$,$,$
+74,0,backgroundimage20.png,,character16_left.png,0,character39_right.png,2,$,$,"가격은 5만원… 보통 옷을 생각하면 아주 비싸진 않지만
+장거리 통학으로 교통비가 많이 드는 사정을 생각하면
+이 정도면 괜찮다는 말이 쉽사리 나오지는 않는다.",0,$,$,$,$,$
+75,0,backgroundimage20.png,,character16_left.png,0,character39_right.png,2,$,$,"과잠이라…
+대학교의 로망이면서 옷 고민을 해결해 주는 기특한 옷이라곤 하는데
+당장 얼마나 입을지 모르는 옷에 적지 않은 돈을 지출하기는 좀 쉽지 않다.",0,$,$,$,$,$
+76,1,backgroundimage20.png,,character16_left.png,0,character39_right.png,2,$,$,,0,과잠을 신청한다.,77,과잠을 신청하지 않는다.,80,$
+77,0,backgroundimage20.png,music14.mp3,character5_left.png,0,character39_right.png,2,$,$,"값은 비싸지만 대학교 전체를 생각하면 괜찮은 투자인 것 같다.
+과잠 신청서에 이름을 적고¸ 선배에게 돈을 건넸다.",0,$,$,$,$,$
+78,0,backgroundimage20.png,,character5_left.png,0,character39_right.png,2,$,$,"“과잠은 얼마나 걸려요?”
+“한 한 달 정도? 걸릴 거라던데.”",0,$,$,$,$,$
+79,0,backgroundimage20.png,,character5_left.png,0,character39_right.png,2,$,$,"…아무래도 과잠의 존재를 잊어버릴 때 즈음에
+과잠을 받을 수 있을 것 같다.",104,$,$,$,$,$
+80,0,backgroundimage20.png,,character5_left.png,0,character39_right.png,2,$,$,"얼마나 입을지 모르는 옷을 이 정도 값을 지출해서 하기는 좀 부담스럽다.
+아무런 표시 없이 옆에 있던 동기에서 신청서를 넘겼다.",0,$,$,$,$,$
+81,0,backgroundimage20.png,,character16_left.png,0,character17_right.png,2,$,$,"다음 날¸ 또다시 찾아온 우주 공강 시간에 시간을 때우려
+과방으로 향하던 도중 선배들의 대화를 들었다.",0,$,$,$,$,$
+82,0,backgroundimage20.png,,character16_left.png,0,character17_right.png,2,$,$,"“이번에는 과잠 신청률이 좀 저조하네.”
+”단위가 좀 꼬여서 한 명한테 받는 값을 조정해야 할지도 몰라.”
+”이제 와서 돈 더 받기는 좀 그렇지 않나?”",0,$,$,$,$,$
+83,0,backgroundimage20.png,,character16_left.png,0,character17_right.png,2,$,$,…아무래도 과잠 신청에 문제가 생긴 것 같다.,0,$,$,$,$,$
+84,0,backgroundimage22.png,music13.mp3,$,$,$,$,$,$,"오리엔테이션 기간과 수강 정정 기간이 끝나고
+본격적으로 학기가 시작되었다.",0,$,$,$,$,$
+85,0,backgroundimage22.png,,$,$,$,$,$,$,"아직은 1학년 초반이라 그런지 수업은 그럭저럭 따라갈 만한데
+필수 수업에 오전 수업이 많은 게 쉽지 않다.
+말하자면¸ 아침에 일어나는 게 잘 적응이 되지 않는다.",0,$,$,$,$,$
+86,0,backgroundimage22.png,,$,$,$,$,$,$,장거리 통학러인 나로서는 이어지는 오전 수업이 결코 쉽지 않다.,0,$,$,$,$,$
+87,0,backgroundimage10.png,,$,$,$,$,$,$,그리고 어느 날¸ 아침…,0,$,$,$,$,$
+88,0,backgroundimage21.png,music6.mp3,$,$,$,$,$,$,,0,$,$,$,$,$
+89,0,backgroundimage21.png,music15.mp3,$,$,$,$,$,$,"이상하게 눈이 떠지는 게 기분이 좋다.
+오늘은 왠지 좋은 컨디션으로 수업을 들을 수 있겠…",0,$,$,$,$,$
+90,0,backgroundimage12.png,,$,$,$,$,$,$,…….,0,$,$,$,$,$
+91,0,backgroundimage12.png,,$,$,$,$,$,$,,0,$,$,$,$,sound1.mp3
+92,0,backgroundimage23.png,music16.mp3,character11_left.png,0,$,$,$,$,"너무 늦게 일어났다!
+빨리 씻고 나가면 어떻게 수업에 맞출 수 있을 것 같기도 한데…",0,$,$,$,$,$
+93,0,backgroundimage23.png,,character11_left.png,0,$,$,$,$,"빡빡하지만 평소대로 지하철로 갈지¸
+여유롭게 시간을 확보해서 택시로 갈지 고민이 된다.",0,$,$,$,$,$
+94,1,backgroundimage23.png,,character11_left.png,0,$,$,$,$,,0,지하철을 탄다.,95,택시를 탄다.,97,$
+95,0,backgroundimage24.png,,character11_left.png,0,$,$,$,$,"시작은 늦었지만¸ 오늘따라 환승 시간이 딱딱 맞아떨어진다!
+평소대로 가는 거라 늦을지도 모른다고 생각했는데 다행히 잘 도착했다!",0,$,$,$,$,$
+96,0,backgroundimage24.png,,character14_left.png,0,$,$,$,$,괜히 택시를 선택하지 않고도 제시간에 도착해서 다행이었다.,104,$,$,$,$,$
+97,0,backgroundimage23.png,music17.mp3,character11_left.png,0,$,$,$,$,"지하철로는 수업 시간 안에 들어갈 수 있을 거라 장담하기 어려웠다.
+급한 대로 택시 어플을 켜서 택시를 불렀다.",0,$,$,$,$,$
+98,0,backgroundimage25.png,,$,$,$,$,$,$,"“학생¸ 이 시간에 타도 괜찮겠어?”
+”괜찮아요¸ 어서 부탁드릴게요.”",0,$,$,$,$,$
+99,0,backgroundimage25.png,,$,$,$,$,$,$,"그리고 택시 기사님의 의중을 파악하는 데는
+그렇게 오랜 시간이 걸리지 않았다.",0,$,$,$,$,$
+100,0,backgroundimage26.png,music18.mp3,$,$,$,$,$,$,"그렇다. 지금은 오전의 한복판.
+즉¸ 출근길 행렬이 이어지는 러시아워였다.",0,$,$,$,$,$
+101,0,backgroundimage26.png,,character11_left.png,0,$,$,$,$,"결국 나는 택시를 타고도
+평소보다 15분이나 늦게 강의실에 도착했다.",0,$,$,$,$,$
+102,0,backgroundimage27.png,music19.mp3,character11_left.png,0,$,$,$,$,"수업 시간 중에 강의실에 들어가니
+문 열리는 소리가 들리자 일제히 내 쪽으로 돌아오는 시선들이
+꽤나 부담스럽게 느껴졌다.",0,$,$,$,$,$
+103,0,backgroundimage27.png,,character6_left.png,0,$,$,$,$,"공부에 전념하고 싶다고 결심했는데…
+처음이 꼬이기 시작하니 좀처럼 힘을 못 받는 느낌이다.",335,$,$,$,$,$
+104,0,backgroundimage28.png,music20.mp3,$,$,$,$,$,$,"시간은 흘러 흘러 한 달이 지났다.
+어디 특출나게 잘한 건 아니지만 뒤처지지는 않는
+그럭저럭 괜찮은 대학생 생활을 보내고 있었다.",0,$,$,$,$,$
+105,0,backgroundimage28.png,,$,$,$,$,$,$,그리고 3월 말의 메인 이벤트¸ 개강총회 날이 다가왔다.,0,$,$,$,$,$
+106,0,backgroundimage29.png,,$,$,$,$,$,$,"공식적으로 과를 운영하는 단체들을 공인하는 자리라
+아무래도 참석해야 할 것 같았다.",0,$,$,$,$,$
+107,0,backgroundimage29.png,,$,$,$,$,$,$,"형식적인 절차만 남은 행사라는 건 알고 있었지만
+과 학생회를 인준하고 표결하는 등
+이제까지 겪은 행사 중에서 대학생이라는 느낌이 제일 많이 드는 행사였다.",0,$,$,$,$,$
+108,0,backgroundimage30.png,music5.mp3,$,$,$,$,$,$,그리고 대학교 행사라면 이제는 따라붙는 게 자연스러운 것 같은 뒤풀이 자리.,0,$,$,$,$,$
+109,0,backgroundimage30.png,,$,$,$,$,$,$,"결국 행사의 마무리는 술자리구나¸ 라는 생각이 들면서도
+이젠 새내기도 대학교에 들어온 지 한 달이 지난 만큼
+새터와 비교하면 각자 선을 지키며 제법 점잖게 노는 모습이었다.",0,$,$,$,$,$
+110,0,backgroundimage30.png,,character1_left.png,0,$,$,$,$,"한결 차분해진 느낌의 술자리에서 나는 한 걸음 물러나
+과 학생들이 대부분 다 모인 뒤풀이 자리를 전체적으로 둘러본다.",0,$,$,$,$,$
+111,0,backgroundimage31.png,,character1_left.png,0,character28_mid.png,1,character31_right.png,2,"유독 한 테이블이 다른 테이블에 비해
+제법 즐거운 분위기를 내고 있었다.
+그리고 그 중심에 두 명의 동기가 보였다.",0,$,$,$,$,$
+112,0,backgroundimage31.png,,character1_left.png,0,character28_mid.png,1,character31_right.png,2,"한 명은 특유의 활달한 느낌으로 사람들을 잘 끌어모으고 있었고¸
+다른 한 명은 사람들이 하는 말을 잘 듣고 잘 반응해주는 모습이 눈에 띄었다.",0,$,$,$,$,$
+113,1,backgroundimage31.png,,character16_left.png,0,character28_mid.png,1,character31_right.png,2,,0,활달한 동기에게 말을 걸어본다.,114,말을 잘 듣고 있는 동기에게 말을 걸어본다.,220,$
+114,0,backgroundimage31.png,,character15_left.png,0,character28_right.png,2,$,$,"저렇게 여러 사람들과 곧잘 이야기하는 모습을 보니
+이 친구는 내가 다소 약한 친화력을 잘 보완해줄 수 있을 것 같다.
+과 사람들과 친밀하게 지내서 나쁠 것도 없고.",0,$,$,$,$,$
+115,0,backgroundimage31.png,,character15_left.png,0,character29_right.png,2,$,$,"“오¸ 어서 와!
+ 내 이름은 김재현이야!”",0,$,$,$,$,$
+116,0,backgroundimage31.png,,character15_left.png,0,character29_right.png,2,$,$,,0,$,$,$,$,$
+117,0,backgroundimage31.png,,character15_left.png,0,character29_right.png,2,$,$,"누군가는 자신의 노력으로 성과를 이룬다면
+누군가는 사람과 함께하는 재능으로 성과를 이루기도 한다.
+이 친구는 아마도 명백하게 후자인 타입이겠지.",0,$,$,$,$,$
+118,0,backgroundimage31.png,,character15_left.png,0,character29_right.png,2,$,$,김재현과 대화하면서 그런 생각이 들었다.,0,$,$,$,$,$
+119,0,backgroundimage31.png,,character15_left.png,0,character29_right.png,2,$,$,"…노는 건 좀 좋아하는 것 같지만¸
+공부만 하려는 내 일상에 가끔씩 쉼표를 찍어줄 수는 있을 것 같다.",0,$,$,$,$,$
+120,0,backgroundimage32.png,music4.mp3,$,$,$,$,$,$,김재현에게서 메신저톡이 왔다.,0,$,$,$,$,$
+121,0,backgroundimage32.png,,$,$,$,$,$,$,"[이번에 과방에서 들었는데 
+우리 과 동아리로 기타 동아리가 만들어질 거래]",0,$,$,$,$,$
+122,0,backgroundimage32.png,,$,$,$,$,$,$,"기타라… 
+기타는 이전부터 희망하는 취미생활로 좀 관심이 있었다.",0,$,$,$,$,$
+123,0,backgroundimage32.png,,$,$,$,$,$,$,"대학 입시를 공부하면서 기타 소리가 들리는 음악 몇 개를 들으며
+때로는 공부에도 집중하고 때로는 힘들 때 위안도 받았던 기억이 떠오른다.",0,$,$,$,$,$
+124,0,backgroundimage32.png,,$,$,$,$,$,$,"[나 기타 관심 있는데
+ 같이 들어갈래?]",0,$,$,$,$,$
+125,0,backgroundimage32.png,,$,$,$,$,$,$,"이전부터 좋은 기억이 있는 악기이기도 하고
+공부가 힘들 때 가끔씩 숨을 돌리는 시간이 될 수 있을 지도 모른다…",0,$,$,$,$,$
+126,1,backgroundimage32.png,,$,$,$,$,$,$,,0,기타 동아리에 들어간다.,127,기타 동아리에 들어가지 않는다.,129,$
+127,0,backgroundimage32.png,,$,$,$,$,$,$,"[응¸ 같이 하자]
+[오¸ 별로 관심 없을 줄 알았는데 다행이다!
+ 그럼 과방에 신청서 작성해둘게?]",0,$,$,$,$,$
+128,0,backgroundimage32.png,,$,$,$,$,$,$,"공연을 한다거나 그런 게 아니고
+2주일에 한 번 즈음 같이 원하는 곡 하나를 연주하는 정도의 소모임이니
+이 정도면 특별히 부담은 없을 것 같다.",132,$,$,$,$,$
+129,0,backgroundimage32.png,,$,$,$,$,$,$,"공연을 준비하거나 하지는 않지만
+아무리 2주일에 한 번이 널널한 활동이라고 해도
+자칫하면 공부에 방해가 될지도 모르겠다.",0,$,$,$,$,$
+130,0,backgroundimage32.png,,$,$,$,$,$,$,"[기타 좋아하긴 하는데…
+ 역시 동아리까지는 관둘래]
+[그래? 아쉽지만 어쩔 수 없지 ㅠㅠ]",0,$,$,$,$,$
+131,0,backgroundimage32.png,,$,$,$,$,$,$,"내 위안이 되었던 기타라서 그런가 조금 미련이 남기는 하지만…
+내가 대학에 들어온 목적을 잊어버리고 싶지는 않았다.",150,$,$,$,$,$
+132,0,backgroundimage33.png,music9.mp3,$,$,$,$,$,$,"대학교에 들어와서 처음으로 치는 중간고사를 마치니
+학교는 곧장 축제 기간에 돌입했다.",0,$,$,$,$,$
+133,0,backgroundimage33.png,,$,$,$,$,$,$,"야구부에선 조그맣게 망을 설치해 배팅 센터를 마련하거나
+미술부에선 작은 전시회가 열리고 간단 그림 그리기 교실이 열리는 등…",0,$,$,$,$,$
+134,0,backgroundimage33.png,,$,$,$,$,$,$,"프로가 아니라서 어딘지 한두 곳 엉성한 곳이 보이긴 했지만
+적어도 축제 기간이라는 에너지가 강의실 안에서도 느껴지는 것은 좋았다.",0,$,$,$,$,$
+135,0,backgroundimage22.png,music20.mp3,character13_left.png,0,character29_right.png,2,$,$,"그런 활기찬 에너지가 참 좋기는 했지만
+공부를 목표로 하고 싶은 내가 참여하기엔 과분하다는 생각을 하고 있던 찰나¸
+김재현이 수업 쉬는 시간에 내게 말을 걸어왔다.",0,$,$,$,$,$
+136,0,backgroundimage22.png,,character13_left.png,0,character29_right.png,2,$,$,"“오늘 저녁에 아이들이 공연 온다고 하던데
+ 이거 웬만하면 없는 기회다?”",0,$,$,$,$,$
+137,0,backgroundimage22.png,,character13_left.png,0,character29_right.png,2,$,$,"아이들이라고?
+김재현이 말한 대로 좀처럼 대학 축제에서 보기 힘든 사람이다.",0,$,$,$,$,$
+138,0,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,"이번 중간고사는 나쁘지 않게 치룬 것 같으니...
+별 생각 없었는데 이렇게 같이 가자고 제안을 받으니
+하루 정도는 기분 전환을 하러 가봐도 괜찮을 것 같다.",0,$,$,$,$,$
+139,1,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,,0,저녁 무대를 보러 간다.,140,저녁 무대를 보러 가지 않는다.,145,$
+140,0,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,"김재현의 말대로 좀처럼 없는 기회다!
+중간고사도 괜찮게 마무리했는데 오늘은 좀 즐기러 나가도 괜찮겠지.",0,$,$,$,$,$
+141,0,backgroundimage34.png,music22.mp3,character20_left.png,0,character41_mid.png,1,character29_right.png,2,"그날 저녁¸ 나는 김재현과 동기 몇 명과 같이
+아이들이 공연하는 무대를 즐겼다.",0,$,$,$,$,$
+142,0,backgroundimage34.png,,character20_left.png,0,character41_mid.png,1,character29_right.png,2,"아이들의 노래 한 곡¸ 멘트 한 마디에 호응하고
+시끌시끌한 야외 공연장의 분위기는
+시험 기간의 피로를 풀기에 충분했다.",0,$,$,$,$,$
+143,0,backgroundimage34.png,,character20_left.png,0,character41_mid.png,1,character29_right.png,2,……,0,,$,$,$,$
+144,0,backgroundimage34.png,,character20_left.png,0,character41_mid.png,1,character29_right.png,2,이렇게 노는 것도 꽤 재미있는데?,166,$,$,$,$,$
+145,0,backgroundimage22.png,,character16_left.png,0,character29_right.png,2,$,$,"흔치 않은 연예인이 등장한다고 해서 잠깐 혹했지만
+생각해 보니 내가 연예인에 그렇게 열광하는 사람은 아니라는 걸 기억해 냈다.",0,$,$,$,$,$
+146,0,backgroundimage22.png,music20.mp3,character16_left.png,0,character29_right.png,2,$,$,“중간고사도 끝났는데¸ 조금은 노는 게 좋지 않아?”,0,$,$,$,$,$
+147,0,backgroundimage22.png,,character16_left.png,0,character29_right.png,2,$,$,"타당한 말이었지만¸
+그저 학교 전체에서 풍겨오는 활기찬 축제의 느낌을 느끼는 것만으로도
+축제를 즐기는 데는 충분할 것 같다.",0,$,$,$,$,$
+148,0,backgroundimage33.png,music9.mp3,character13_left.png,0,character41_right.png,2,$,$,"수업을 마치고 지하철역 앞에 웬일로 나와있는 터키 아이스크림 가판대에서
+몇몇 사람들이 현란한 아이스크림 장난에 농락(?) 당하는 모습을 지켜봤다.",0,$,$,$,$,$
+149,0,backgroundimage33.png,,character13_left.png,0,character41_right.png,2,$,$,저런 게 가능한 걸 보면 터키 아이스크림의 쫀쫀함은 정말 신기하다.,183,$,$,$,$,$
+150,0,backgroundimage33.png,,$,$,$,$,$,$,"대학교에 들어와서 처음으로 치는 중간고사를 마치니
+학교는 곧장 축제 기간에 돌입했다.",0,$,$,$,$,$
+151,0,backgroundimage33.png,,$,$,$,$,$,$,"야구부에선 조그맣게 망을 설치해 배팅 센터를 마련하거나
+미술부에선 작은 전시회가 열리고 간단 그림 그리기 교실이 열리는 등…",0,$,$,$,$,$
+152,0,backgroundimage33.png,,$,$,$,$,$,$,"프로가 아니라서 어딘지 한두 곳 엉성한 곳이 보이긴 했지만
+적어도 축제 기간이라는 에너지가 강의실 안에서도 느껴지는 것은 좋았다.",0,$,$,$,$,$
+153,0,backgroundimage22.png,music20.mp3,character16_left.png,0,character29_right.png,2,$,$,"그런 활기찬 에너지가 참 좋기는 했지만
+공부를 목표로 하고 싶은 내가 참여하기엔 과분하다는 생각을 하고 있던 찰나¸
+김재현이 수업 쉬는 시간에 내게 말을 걸어왔다.",0,$,$,$,$,$
+154,0,backgroundimage22.png,,character16_left.png,0,character29_right.png,2,$,$,"“오늘 저녁에 아이들이 공연 온다고 하던데
+ 이거 웬만하면 없는 기회다?”",0,$,$,$,$,$
+155,0,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,"아이들이라고?
+김재현이 말한 대로 좀처럼 대학 축제에서 보기 힘든 사람이다.",0,$,$,$,$,$
+156,0,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,"이번 중간고사는 나쁘지 않게 치룬 것 같으니...
+별 생각 없었는데 이렇게 같이 가자고 제안을 받으니
+하루 정도는 기분 전환을 하러 가봐도 괜찮을 것 같다.",0,$,$,$,$,$
+157,1,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,,0,저녁 무대를 보러 간다.,158,저녁 무대를 보러 가지 않는다.,161,$
+158,0,backgroundimage22.png,,character19_left.png,0,character29_right.png,2,$,$,"김재현의 말대로 좀처럼 없는 기회다!
+중간고사도 괜찮게 마무리했는데 오늘은 좀 즐기러 나가도 괜찮겠지.",0,$,$,$,$,$
+159,0,backgroundimage34.png,music22.mp3,character20_left.png,0,character41_right.png,2,$,$,"그날 저녁¸ 나는 김재현과 동기 몇 명과 같이
+아이들이 공연하는 무대를 즐겼다.",0,$,$,$,$,$
+160,0,backgroundimage34.png,,character20_left.png,0,character41_right.png,2,$,$,"아이들의 노래 한 곡¸ 멘트 한 마디에 호응하고
+시끌시끌한 야외 공연장의 분위기는
+시험 기간의 피로를 풀기에 충분했다.",183,$,$,$,$,$
+161,0,backgroundimage22.png,,character16_left.png,0,character29_right.png,2,$,$,"흔치 않은 연예인이 등장한다고 해서 잠깐 혹했지만
+생각해 보니 내가 연예인에 그렇게 열광하는 사람은 아니라는 걸 기억해 냈다.",0,$,$,$,$,$
+162,0,backgroundimage22.png,music20.mp3,character16_left.png,0,character29_right.png,2,$,$,“중간고사도 끝났는데¸ 조금은 노는 게 좋지 않아?”,0,$,$,$,$,$
+163,0,backgroundimage22.png,,character16_left.png,0,character29_right.png,2,$,$,"타당한 말이었지만¸
+그저 학교 전체에서 풍겨오는 활기찬 축제의 느낌을 느끼는 것만으로도
+축제를 즐기는 데는 충분할 것 같다.",0,$,$,$,$,$
+164,0,backgroundimage33.png,music9.mp3,character13_left.png,0,character41_right.png,2,$,$,"수업을 마치고 지하철역 앞에 웬일로 나와있는 터키 아이스크림 가판대에서
+몇몇 사람들이 현란한 아이스크림 장난에 농락(?) 당하는 모습을 지켜봤다.",0,$,$,$,$,$
+165,0,backgroundimage33.png,,character13_left.png,0,character41_right.png,2,$,$,저런 게 가능한 걸 보면 터키 아이스크림의 쫀쫀함은 정말 신기하다.,201,$,$,$,$,$
+166,0,backgroundimage5.png,music3.mp3 ,$,$,$,$,$,$,"5월의 날씨는 사람을 느슨하게 만든다.
+축제가 학교를 한 번 휙 훑고 간 다음인지
+봄 하늘의 따스함이 더더욱 체감이 된다.",0,$,$,$,$,$
+167,0,backgroundimage5.png,,$,$,$,$,$,$,"수업 때문에 학교에 가는 중이긴 한데
+지하철 안에서부터 느꼈던 노곤함이 풀리지 않는다.",0,$,$,$,$,$
+168,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"캠퍼스 앞에 도착하니
+마침 김재현이 서있었다.",0,$,$,$,$,$
+169,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"“오늘 많이 피곤해 보이는데 괜찮아?”
+”어¸ 왜인지 오늘따라 좀 피곤하네.”",0,$,$,$,$,$
+170,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"그 이야기를 들은 김재현이 잠시 고민하다가
+곧 말을 잇는다.",0,$,$,$,$,$
+171,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"“어차피 오늘 수업도 잘 못 들을 것 같은데
+출튀하고 공원이나 놀러 갈까?”",0,$,$,$,$,$
+172,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"오늘처럼 블루투스로 출석 체크를 하는 수업이면
+출석 체크만 하고 딴짓을 해도 괜찮을 것 같다.",0,$,$,$,$,$
+173,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"오늘 컨디션으론 수업에 잘 집중하기 어려울 것 같기도 하고¸
+고학년이 되기 전에 한 번쯤 작은 일탈을 해보는 것도 좋을 것 같다…",0,$,$,$,$,$
+174,1,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,,0,출튀하고 놀러간다.,175,정상적으로 수업에 들어간다.,179,$
+175,0,backgroundimage17.png,music16.mp3,character3_left.png,0,character29_mid.png,1,$,$,"일말의 망설임 없이 나는 오케이를 외쳤다.
+나와 김재현은 신나라 하며 강의실로 달려갔다.",0,$,$,$,$,$
+176,0,backgroundimage17.png,,character3_left.png,0,character29_mid.png,1,$,$,"수업 들으러 가는 게 아니라
+수업을 빼먹으러 간다는 게 좀 특이하긴 하지만…",0,$,$,$,$,$
+177,0,backgroundimage17.png,,character3_left.png,0,character29_mid.png,1,$,$,"우리는 강의실 밖에서 출석체크가 될 때까지 기다린 후
+그대로 캠퍼스를 빠져나와 근처 공원으로 향했다.",0,$,$,$,$,$
+178,0,backgroundimage28.png,music21.mp3,character3_left.png,0,character29_mid.png,1,$,$,"매번 칙칙한 강의실 안 색깔만을 보다가
+공원에서 보랏빛 라일락 꽃의 색을 보니
+몸에 제법 생기가 도는 것 같은 기분이었다.",217,$,$,$,$,$
+179,0,backgroundimage5.png,music20.mp3,character1_left.png,0,character29_right.png,2,$,$,"김재현의 제안은 순간 매력적이었지만
+막상 수업을 들으면 또 나아지겠지 싶었다.",0,$,$,$,$,$
+180,0,backgroundimage5.png,,character1_left.png,0,character29_right.png,2,$,$,“그렇지? 막상 또 수업에 들어가면 좋을 지도 모르고?”,0,$,$,$,$,$
+181,0,backgroundimage5.png,,character1_left.png,0,character29_right.png,2,$,$,김재현도 딱히 반대하는 분위기는 아닌 것 같다.,0,$,$,$,$,$
+182,0,backgroundimage6.png,,character1_left.png,0,character29_right.png,2,$,$,"우리는 평소대로 강의실에 들어가 수업을 들었다.
+중간중간 고개가 좀 떨어지긴 했지만¸
+생각보단 수업 듣는 게 그렇게 힘들지는 않았다.",217,$,$,$,$,$
+183,0,backgroundimage5.png,music3.mp3 ,$,$,$,$,$,$,"5월의 날씨는 사람을 느슨하게 만든다.
+축제가 학교를 한 번 휙 훑고 간 다음인지
+봄 하늘의 따스함이 더더욱 체감이 된다.",0,$,$,$,$,$
+184,0,backgroundimage5.png,,$,$,$,$,$,$,"수업 때문에 학교에 가는 중이긴 한데
+지하철 안에서부터 느꼈던 노곤함이 풀리지 않는다.",0,$,$,$,$,$
+185,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"캠퍼스 앞에 도착하니
+마침 김재현이 서있었다.",0,$,$,$,$,$
+186,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,“오늘 많이 피곤해 보이는데 괜찮아?” ”어¸ 왜인지 오늘따라 좀 피곤하네.”,0,$,$,$,$,$
+187,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"그 이야기를 들은 김재현이 잠시 고민하다가
+곧 말을 잇는다.",0,$,$,$,$,$
+188,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"“어차피 오늘 수업도 잘 못 들을 것 같은데
+출튀하고 공원이나 놀러 갈까?”",0,$,$,$,$,$
+189,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"오늘처럼 블루투스로 출석 체크를 하는 수업이면
+출석 체크만 하고 딴짓을 해도 괜찮을 것 같다.",0,$,$,$,$,$
+190,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"오늘 컨디션으론 수업에 잘 집중하기 어려울 것 같기도 하고¸
+고학년이 되기 전에 한 번쯤 작은 일탈을 해보는 것도 좋을 것 같다…",0,$,$,$,$,$
+191,1,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,,0,출튀하고 놀러간다,192,정상적으로 수업에 들어간다.,197,$
+192,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"조금 고민이 되었지만 어차피 수업을 잘 못 들을 것 같다.
+그래서 김재현의 제안을 받아들이기로 했다.",0,$,$,$,$,$
+193,0,backgroundimage17.png,,character3_left.png,0,character29_right.png,2,$,$,"우리는 강의실 밖에서 블루투스를 찍고
+그대로 캠퍼스를 빠져나와 근처 공원으로 향했다.",0,$,$,$,$,$
+194,0,backgroundimage28.png,,character3_left.png,0,character29_right.png,2,$,$,"매번 칙칙한 강의실 안 색깔만을 보다가
+공원에서 보랏빛 라일락 꽃의 색을 보니
+몸에 제법 생기가 도는 것 같은 기분이었다.",0,$,$,$,$,$
+195,0,backgroundimage28.png,,character3_left.png,0,character29_right.png,2,$,$,……,0,$,$,$,$,$
+196,0,backgroundimage28.png,,character3_left.png,0,character29_right.png,2,$,$,이렇게 노는 것도 꽤 재미있는데?,217,$,$,$,$,$
+197,0,backgroundimage5.png,music20.mp3,character1_left.png,0,character29_right.png,2,$,$,"김재현의 제안은 순간 매력적이었지만
+막상 수업을 들으면 또 나아지겠지 싶었다.",0,$,$,$,$,$
+198,0,backgroundimage5.png,,character1_left.png,0,character29_right.png,2,$,$,“그렇지? 막상 또 수업에 들어가면 좋을 지도 모르고?”,0,$,$,$,$,$
+199,0,backgroundimage5.png,,character1_left.png,0,character29_right.png,2,$,$,김재현도 딱히 반대하는 분위기는 아닌 것 같다.,0,$,$,$,$,$
+200,0,backgroundimage6.png,,character1_left.png,0,character29_right.png,2,$,$,"우리는 평소대로 강의실에 들어가 수업을 들었다.
+중간중간 고개가 좀 떨어지긴 했지만¸
+생각보단 수업 듣는 게 그렇게 힘들지는 않았다.",332,$,$,$,$,$
+201,0,backgroundimage5.png,music3.mp3 ,$,$,$,$,$,$,"5월의 날씨는 사람을 느슨하게 만든다.
+축제가 학교를 한 번 휙 훑고 간 다음인지
+봄 하늘의 따스함이 더더욱 체감이 된다.",0,$,$,$,$,$
+202,0,backgroundimage5.png,,$,$,$,$,$,$,"수업 때문에 학교에 가는 중이긴 한데
+지하철 안에서부터 느꼈던 노곤함이 풀리지 않는다.",0,$,$,$,$,$
+203,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"캠퍼스 앞에 도착하니
+마침 김재현이 서있었다.",0,$,$,$,$,$
+204,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"“오늘 많이 피곤해 보이는데 괜찮아?”
+”어¸ 왜인지 오늘따라 좀 피곤하네.”",0,$,$,$,$,$
+205,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"그 이야기를 들은 김재현이 잠시 고민하다가
+곧 말을 잇는다.",0,$,$,$,$,$
+206,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"“어차피 오늘 수업도 잘 못 들을 것 같은데
+출튀하고 공원이나 놀러갈까?”",0,$,$,$,$,$
+207,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"오늘처럼 블루투스로 출석 체크를 하는 수업이면
+출석 체크만 하고 딴짓을 해도 괜찮을 것 같다.",0,$,$,$,$,$
+208,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"오늘 컨디션으론 수업에 잘 집중하기 어려울 것 같기도 하고¸
+고학년이 되기 전에 한 번 쯤 작은 일탈을 해보는 것도 좋을 것 같다…",0,$,$,$,$,$
+209,1,backgroundimage5.png,,character5_left.png,$,$,$,$,$,,0,출튀하고 놀러간다.,210,정상적으로 수업에 들어간다.,213,$
+210,0,backgroundimage5.png,,character5_left.png,0,character29_right.png,2,$,$,"수업을 짼다는 것의 위압감 때문인지 오랫동안 고민했다.
+그리고 한 번 쯤은 괜찮겠다는 생각에 김재현의 제안을 받아들였다.",0,$,$,$,$,$
+211,0,backgroundimage28.png,,character3_left.png,0,character29_right.png,2,$,$,"우리는 강의실 안에 걸린 리더기에 각자 학생증을 찍고
+그대로 캠퍼스를 빠져나와 근처 공원으로 향했다.",0,$,$,$,$,$
+212,0,backgroundimage28.png,,character3_left.png,0,character29_right.png,2,$,$,"매번 칙칙한 강의실 안 색깔만을 보다가
+공원에서 보랏빛 라일락 꽃의 색을 보니
+몸에 제법 생기가 도는 것 같은 기분이었다.",332,$,$,$,$,$
+213,0,backgroundimage5.png,music20.mp3,character1_left.png,0,character29_right.png,2,$,$,"김재현의 제안은 순간 매력적이었지만
+막상 수업을 들으면 또 나아지겠지 싶었다.",0,$,$,$,$,$
+214,0,backgroundimage5.png,,character1_left.png,0,character29_right.png,2,$,$,“그렇지? 막상 또 수업에 들어가면 좋을 지도 모르고?”,0,$,$,$,$,$
+215,0,backgroundimage5.png,,character1_left.png,0,character29_right.png,2,$,$,김재현도 딱히 반대하는 분위기는 아닌 것 같다.,0,$,$,$,$,$
+216,0,backgroundimage6.png,,character1_left.png,0,character29_right.png,2,$,$,"우리는 평소대로 강의실에 들어가 수업을 들었다.
+중간중간 고개가 좀 떨어지긴 했지만¸
+생각보단 수업 듣는 게 그렇게 힘들지는 않았다.",332,$,$,$,$,$
+217,0,backgroundimage2.png,music14.mp3,$,$,$,$,$,$,김재현과 같이 보내는 1학년은 정말 재미있었다.,0,$,$,$,$,$
+218,0,backgroundimage2.png,,$,$,$,$,$,$,"학교 수업 외에 많은 일들을 겪게 되었고¸ 
+학업 외에 인생을 살아가는 목적이 있을 거라고¸ 
+그런 생각이 들었다.",0,$,$,$,$,$
+219,0,backgroundimage2.png,,$,$,$,$,$,$,"하지만 이렇게나 늦게 학업 외의 재미를 알게 된 탓일까. 
+공부는 손에 잘 잡히지 않게 되었다…",336,$,$,$,$,$
+220,0,backgroundimage31.png,music5.mp3,charcter15_left.png,0,character31_right.png,2,$,$,"자기가 먼저 나서지는 않지만¸
+사람들이 하는 이야기에 유머러스하게 잘 맞춰주는 모습이 눈에 띈다.
+대화가 잘 될 거 같은 사람은 언제나 호감이 느껴진다.",0,$,$,$,$,$
+221,0,backgroundimage31.png,,character13_left.png,0,character31_right.png,2,$,$,잠깐 빈틈을 타 말을 걸자¸ 곧장 내 이름을 부르며 친숙하게 다가온다.,0,$,$,$,$,$
+222,0,backgroundimage31.png,,character13_left.png,0,character31_right.png,2,$,$,"사람들의 이야기를 잘 들어주는 성격인 만큼
+성실하고 부지런한 사람이라는 걸 잠깐의 대화만으로 알 수 있었다.",0,$,$,$,$,$
+223,0,backgroundimage31.png,,character13_left.png,0,character31_right.png,2,$,$,박진성은 내 목표를 이루는데 마음을 잡아줄 중요한 사람이 될지도 모르겠다.,0,$,$,$,$,$
+224,0,backgroundimage31.png,,character13_left.png,0,character31_right.png,2,$,$,"…다만 자기 일은 어떻게든 다 끝내는 게 원칙이라며
+잠이나 휴식 시간을 좀 많이 희생하는 게 버릇이라고 한다.",0,$,$,$,$,$
+225,0,backgroundimage31.png,,character16_left.png,0,character31_right.png,2,$,$,…건강은 좀 괜찮은 걸까?,0,$,$,$,$,$
+226,0,backgroundimage35.png,music7.mp3,character5_left.png,0,$,$,$,$,"중간고사가 머지않았다.
+학교 도서실에 늦게까지 시험공부를 하다가
+잠깐 휴식할 겸 휴게실로 나왔다.",0,$,$,$,$,$
+227,0,backgroundimage35.png,,character5_left.png,0,$,$,$,$,,0,$,$,$,$,$
+228,0,backgroundimage35.png,,character5_left.png,0,character42_right.png,2,$,$,"그때¸ 내 이름을 부르는 익숙한 목소리가 들린다.
+뒤를 돌아보니 박진성도 열람실에서 막 나오고 있었다.
+손에는 에너지 드링크 캔을 들고 있었다.",0,$,$,$,$,$
+229,0,backgroundimage35.png,,character13_left.png,0,character42_right.png,2,$,$,"“오늘 밤샐려고?”
+”응¸ 좀 모자란 부분이 있어서 확인은 해야 할 거 같은데.”",0,$,$,$,$,$
+230,0,backgroundimage35.png,,character13_left.png,0,character42_right.png,2,$,$,"그 말을 들으니 언뜻¸
+오늘 공부하다가 의문이 드는 부분이 있었다는 게 기억났다.",0,$,$,$,$,$
+231,0,backgroundimage35.png,,character13_left.png,0,character42_right.png,2,$,$,"나머지는 집에 돌아가 잠깐만 내용을 확인하고 자려고 했는데…
+옆에 박진성과 같이 있으면 서로 알려줄 게 있을 것 같다.",0,$,$,$,$,$
+232,1,backgroundimage35.png,,character13_left.png,0,character42_right.png,2,$,$,,0,같이 밤샘 공부를 한다.,233,이제 슬슬 집으로 간다.,237,$
+233,0,backgroundimage35.png,,character13_left.png,0,character42_right.png,2,$,$,"집에 돌아가는 건 단념하기로 하고
+박진성 옆에서 같이 밤샘 공부를 하기로 했다.",0,$,$,$,$,$
+234,0,backgroundimage35.png,music13.mp3,character13_left.png,0,character42_right.png,2,$,$,"박진성과 이따금씩 서로 질문을 주고받으며 도서관에서 공부하니
+벌써 아침 해가 밝아오기 시작했다.",0,$,$,$,$,$
+235,0,backgroundimage36.png,,character13_left.png,0,character42_right.png,2,$,$,"이것이 청춘이 공부하는 법!이라는 미묘한 쾌감을 느끼며
+박진성과 함께 학교 근처 햄버거집에 아침 메뉴를 먹으러 갔다.",0,$,$,$,$,$
+236,0,backgroundimage36.png,,character13_left.png,0,character42_right.png,2,$,$,중간고사 성적은 문제없을 것 같다.,241,$,$,$,$,$
+237,0,backgroundimage22.png,,character10_left.png,0,$,$,$,$,"오늘 모자란 공부를 하는 것도 중요하지만¸
+최종 목적은 중간고사를 잘 치르는 것이다.",0,$,$,$,$,$
+238,0,backgroundimage22.png,,character10_left.png,0,$,$,$,$,"시험 때 좋은 컨디션으로 치르는 것도 중요한 일이니
+도서관에선 이만 짐을 정리해 귀가하기로 했다.",0,$,$,$,$,$
+239,0,backgroundimage22.png,,character10_left.png,0,$,$,$,$,"에너지 음료 캔을 들고 내게 손을 흔드는 박진성의 모습을 보면서
+크게 무리하지 않았으면 좋겠다고 마음속으로 기도했다.",0,$,$,$,$,$
+240,0,backgroundimage22.png,,character19_left.png,0,$,$,$,$,다음 날 시험은 큰 문제 없이 잘 치렀다.,258,$,$,$,$,$
+241,0,backgroundimage33.png,music20.mp3,$,$,$,$,$,$,중간고사가 끝나자 바로 학교 축제가 시작되었다.,0,$,$,$,$,$
+242,0,backgroundimage33.png,,$,$,$,$,$,$,"상상으론 완성도는 높지 않아도
+대학생들의 톡톡 튀는 아이디어가 넘치는 축제를 기대했지만",0,$,$,$,$,$
+243,0,backgroundimage33.png,,$,$,$,$,$,$,"사실상 대부분의 학생들이 축제에서 기대하는 것은
+저녁에 오는 연예인의 무대와 과에서 운영하는 주점 정도였다.",0,$,$,$,$,$
+244,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,"그다지 축제에 기대하는 게 없는 나는
+오늘 수업을 마치고 돌아가려던 찰나¸
+캠퍼스 앞에서 천막을 펼치고 있는 박진성을 발견했다.",0,$,$,$,$,$
+245,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,“오늘 과주점이 있어서 좀 돕고 갈려고.”,0,$,$,$,$,$
+246,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,"말은 그렇게 하지만¸ 아마도 그 ‘조금' 돕는다고 들어갔다가
+결국은 마지막까지 행사 자리를 지키고 있겠지.",0,$,$,$,$,$
+247,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,"실질적으론 이미 졸업한 선배들을 상대하는 자리가 과주점이기도 해서 
+박진성을 도와주면 부담이 좀 줄어들지도 모르겠다.",0,$,$,$,$,$
+248,1,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,,0,주점 운영을 도와준다.,249,도와주지 않고 바로 귀가한다.,255,$
+249,0,backgroundimage33.png,music13.mp3,character5_left.png,0,character32_mid.png,1,$,$,"박진성이 천막을 준비하는 동안¸
+나는 술이며 과자며 기타 각종 식재료를 준비했다.",0,$,$,$,$,$
+250,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"해가 막 질 무렵에는 사람이 많이 없다가
+밤이 깊어갈 때부터 슬슬 사람들이 자리를 채우기 시작했다.",0,$,$,$,$,$
+251,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"가끔은 우리 과와 완전히 관련 없는 사람이 손님으로 오기도 하고
+대부분은 자신이 이 학과를 졸업한 졸업생이라고 소개했다.",0,$,$,$,$,$
+252,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"그 까마득한 선배들은 과주점은 후배들한테 돈을 기부하러 온 거라고 농담을 던졌고
+나는박진성과 함께 선배들 이야기를 들을 수 있었다.
+임용 시험에 합격했다는 선배들의 이야기는 꽤 많이 도움이 되었다.",0,$,$,$,$,$
+253,0,backgroundimage37.png,,character8_left.png,0,character32_mid.png,1,character41_right.png,2,…….,0,$,$,$,$,$
+254,0,backgroundimage37.png,,character8_left.png,0,character32_mid.png,1,character41_right.png,2,그나저나 조금 피곤함이 쌓여가는 느낌이 든다.,273,$,$,$,$,$
+255,0,backgroundimage33.png,,character13_left.png,0,character31_right.png,2,$,$,"박진성을 도와주면 괜찮겠다는 생각이 들면서도
+술에 취한 사람들을 상대할 걸 생각하면
+내가 있는 건 그렇게 큰 도움이 안 될 것 같다.",0,$,$,$,$,$
+256,0,backgroundimage33.png,,character13_left.png,0,character31_right.png,2,$,$,"슬슬 천막이 세워지는 과주점 자리를 뒤로하고
+나는 캠퍼스를 나섰다.",0,$,$,$,$,$
+257,0,backgroundimage33.png,,character13_left.png,0,character31_right.png,2,$,$,"성실하게 과 행사에 다 참가하는 사람들에게
+마음속으로 존경의 인사를 남겨본다. ",293,$,$,$,$,$
+258,0,backgroundimage33.png,music20.mp3,$,$,$,$,$,$,중간고사가 끝나자 바로 학교 축제가 시작되었다.,0,$,$,$,$,$
+259,0,backgroundimage33.png,,$,$,$,$,$,$,"상상으론 완성도는 높지 않아도
+대학생들의 톡톡 튀는 아이디어가 넘치는 축제를 기대했지만",0,$,$,$,$,$
+260,0,backgroundimage33.png,,$,$,$,$,$,$,"사실상 대부분의 학생들이 축제에서 기대하는 것은
+저녁에 오는 연예인의 무대와 과에서 운영하는 주점 정도였다.",0,$,$,$,$,$
+261,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,"그다지 축제에 기대하는 게 없는 나는
+오늘 수업을 마치고 돌아가려던 찰나¸
+캠퍼스 앞에서 천막을 펼치고 있는 박진성을 발견했다.",0,$,$,$,$,$
+262,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,“오늘 과주점이 있어서 좀 돕고 갈려고.”,0,$,$,$,$,$
+263,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,"말은 그렇게 하지만¸ 아마도 그 ‘조금' 돕는다고 들어갔다가
+결국은 마지막까지 행사 자리를 지키고 있겠지.",0,$,$,$,$,$
+264,0,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,"실질적으론 이미 졸업한 선배들을 상대하는 자리가 과주점이기도 해서 
+박진성을 도와주면 부담이 좀 줄어들지도 모르겠다.",0,$,$,$,$,$
+265,1,backgroundimage33.png,,character13_left.png,0,character32_right.png,2,$,$,,0,주점 운영을 도와준다.,266,도와주지 않고 바로 귀가한다.,270,$
+266,0,backgroundimage33.png,music13.mp3,character5_left.png,0,character32_mid.png,1,$,$,"박진성이 천막을 준비하는 동안¸
+나는 술이며 과자며 기타 각종 식재료를 준비했다.",0,$,$,$,$,$
+267,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"해가 막 질 무렵에는 사람이 많이 없다가
+밤이 깊어갈 때부터 슬슬 사람들이 자리를 채우기 시작했다.",0,$,$,$,$,$
+268,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"가끔은 우리 과와 완전히 관련 없는 사람이 손님으로 오기도 하고
+대부분은 자신이 이 학과를 졸업한 졸업생이라고 소개했다.",0,$,$,$,$,$
+269,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"그 까마득한 선배들은 과주점은 후배들한테 돈을 기부하러 온 거라고 농담을 던졌고
+나는 박진성과 함께 선배들 이야기를 들을 수 있었다.
+임용 시험에 합격했다는 선배들의 이야기는 꽤 많이 도움이 되었다.",293,$,$,$,$,$
+270,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성을 도와주면 괜찮겠다는 생각이 들면서도
+술에 취한 사람들을 상대할 걸 생각하면
+내가 있는 건 그렇게 큰 도움이 안 될 것 같다.",0,$,$,$,$,$
+271,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"슬슬 천막이 세워지는 과주점 자리를 뒤로 하고
+나는 캠퍼스를 나섰다.",0,$,$,$,$,$
+272,0,backgroundimage37.png,,character5_left.png,0,character32_mid.png,1,character41_right.png,2,"성실하게 과 행사에 다 참가하는 사람들에게
+마음 속으로 존경의 인사를 남겨본다.",311,$,$,$,$,$
+273,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"축제가 지나고 잠깐 일이 있어 들른 과방에서 박진성을 만났다.
+이번에도 몇몇 과 사람들과 모여 무언가 회의를 하고 있었다.",0,$,$,$,$,$
+274,0,backgroundimage20.png,,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"곧 학술 답사가 예정이 되어있고
+박진성은 그 학술 답사에 주체로 참가하게 되었다는 것이었다.",0,$,$,$,$,$
+275,0,backgroundimage20.png,,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성은 도대체 이런 소식들을 어떻게 알고서
+어떻게 이렇게 행사가 있을 때마다 참가하고 있는 걸까.",0,$,$,$,$,$
+276,0,backgroundimage20.png,,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"고등학교 때는 아무것도 안 해도 반에서 일어나는 상황을 다 알 수 있었는데
+대학교에 올라오니 이젠 관심이 없으면 무슨 일이 일어나는지 알기도 어렵게 되었다.",0,$,$,$,$,$
+277,0,backgroundimage20.png,,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"아무튼 학과 답사는 이제까지 새터랑은 조금 다르게
+교수님이 개입하는 엄연한 수업의 일종이다.",0,$,$,$,$,$
+278,0,backgroundimage20.png,,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"“안 그래도 한 명 더 참가하면 좋겠다고 생각했는데 어때?
+교수님이나 선배랑 이야기해 볼 수 있는 기회도 될 거야.”",0,$,$,$,$,$
+279,0,backgroundimage20.png,,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"마치 내가 들어올 것을 예상하기라도 한 듯
+수상하게 남아있는 답사 주체 한자리에 박진성은 나를 추천한다.",0,$,$,$,$,$
+280,0,backgroundimage20.png,,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"하지만 박진성의 말처럼 주체로 참가하면
+평소에는 얻을 수 없었던 경험을 얻을 수 있을 지도 모르겠다…",0,$,$,$,$,$
+281,1,backgroundimage20.png,,character16_left.png,0,character32_mid.png,1,character41_right.png,2,,0,답사 주체에 참가한다.,282,답사 주체에 참가하지 않는다.,288,$
+282,0,backgroundimage20.png,,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"활동은 힘들 것 같지만 얻을 수 있는 게 많을 것 같아서
+주체에 참가하기로 했다.",0,$,$,$,$,$
+283,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,그리고 예상대로 앞으로의 일정은 바쁘게 돌아갔다.,0,$,$,$,$,$
+284,0,backgroundimage27.png,,$,$,$,$,$,$,"교수님과 여러 번 회의를 하고
+주체들끼리도 여러 번 회의를 하고
+지역이 정해지면 답사도 한 번 가보고…",0,$,$,$,$,$
+285,0,backgroundimage27.png,,$,$,$,$,$,$,"이전까지 공부만 하던 나에게
+이 경험은 정말 새로운 경험이었다.",0,$,$,$,$,$
+286,0,backgroundimage27.png,,$,$,$,$,$,$,"공부를 하러 가는 답사를 준비하는 과정이었지만¸
+그 답사를 준비하는 과정에서 배운 게 더 많았던 나날이었다.",0,$,$,$,$,$
+287,0,backgroundimage27.png,music14.mp3,$,$,$,$,$,$,……,0,$,$,$,$,$
+288,0,backgroundimage27.png,,$,$,$,$,$,$,"그나저나 평소 나답지 않게 여기저기 참가한 탓일까…
+몸이 좀 으슬으슬 떨리는 느낌이 든다.",329,$,$,$,$,$
+289,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성의 말처럼 이것저것 배울 수 있는 건 많을 것 같았지만¸
+예정 일정을 듣고 스케줄이 너무 빡빡해질 것 같아 거절했다.",0,$,$,$,$,$
+290,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"“너 성격이면 거절할 것 같기는 했어¸
+나도 한 번 장난으로 던져봤어.”",0,$,$,$,$,$
+291,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,박진성은 농담조로 그렇게 이야기했다.,0,$,$,$,$,$
+292,0,backgroundimage12.png,music9.mp3,$,$,$,$,$,$,"나는 과방에서 내 개인적인 볼일을 다 본 뒤¸
+회의에 열중하기 시작한 주체 팀을 두고 과방을 나섰다.",332,$,$,$,$,$
+293,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"축제가 지나고 잠깐 일이 있어 들른 과방에서 박진성을 만났다.
+이번에도 몇몇 과 사람들과 모여 무언가 회의를 하고 있었다.",0,$,$,$,$,$
+294,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"곧 학술 답사가 예정이 되어있고
+박진성은 그 학술 답사에 주체로 참가하게 되었다는 것이었다.",0,$,$,$,$,$
+295,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성은 도대체 이런 소식들을 어떻게 알고서
+어떻게 이렇게 행사가 있을 때마다 참가하고 있는 걸까.",0,$,$,$,$,$
+296,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"고등학교 때는 아무것도 안 해도 반에서 일어나는 상황을 다 알 수 있었는데
+대학교에 올라오니 이젠 관심이 없으면 무슨 일이 일어나는지 알기도 어렵게 되었다.",0,$,$,$,$,$
+297,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"아무튼 학과 답사는 이제까지 새터랑은 조금 다르게
+교수님이 개입하는 엄연한 수업의 일종이다.",0,$,$,$,$,$
+298,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"“안 그래도 한 명 더 참가하면 좋겠다고 생각했는데 어때?
+교수님이나 선배랑 이야기해 볼 수 있는 기회도 될 거야.”",0,$,$,$,$,$
+299,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"마치 내가 들어올 것을 예상하기라도 한 듯
+수상하게 남아있는 답사 주체 한자리에 박진성은 나를 추천한다.",0,$,$,$,$,$
+300,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"하지만 박진성의 말처럼 주체로 참가하면
+평소에는 얻을 수 없었던 경험을 얻을 수 있을 지도 모르겠다…",0,$,$,$,$,$
+301,1,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,,0,답사 주체에 참가한다.,302,답사 주체에 참가하지 않는다.,307,$
+302,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"활동은 힘들 것 같지만 얻을 수 있는 게 많을 것 같아서
+주체에 참가하기로 했다.",0,$,$,$,$,$
+303,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,그리고 예상대로 앞으로의 일정은 바쁘게 돌아갔다.,0,$,$,$,$,$
+304,0,backgroundimage27.png,$,$,$,$,$,$,$,"교수님과 여러 번 회의를 하고
+주체들끼리도 여러 번 회의를 하고
+지역이 정해지면 답사도 한 번 가보고…",0,$,$,$,$,$
+305,0,backgroundimage27.png,$,$,$,$,$,$,$,"이전까지 공부만 하던 나에게
+이 경험은 정말 새로운 경험이었다.",0,$,$,$,$,$
+306,0,backgroundimage27.png,$,$,$,$,$,$,$,"공부를 하러 가는 답사를 준비하는 과정이었지만¸
+그 답사를 준비하는 과정에서 배운 게 더 많았던 나날이었다.",332,$,$,$,$,$
+307,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성의 말처럼 이것저것 배울 수 있는 건 많을 것 같았지만¸
+예정 일정을 듣고 스케줄이 너무 빡빡해질 것 같아 거절했다.",0,$,$,$,$,$
+308,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"“너 성격이면 거절할 것 같기는 했어¸
+나도 한 번 장난으로 던져봤어.”",0,$,$,$,$,$
+309,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,박진성은 농담조로 그렇게 이야기했다.,0,$,$,$,$,$
+310,0,backgroundimage12.png,music9.mp3,$,$,$,$,$,$,"나는 과방에서 내 개인적인 볼일을 다 본 뒤¸
+회의에 열중하기 시작한 주체 팀을 두고 과방을 나섰다.",332,$,$,$,$,$
+311,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"축제가 지나고 잠깐 일이 있어 들른 과방에서 박진성을 만났다.
+이번에도 몇몇 과 사람들과 모여 무언가 회의를 하고 있었다.",0,$,$,$,$,$
+312,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"곧 학술 답사가 예정이 되어있고
+박진성은 그 학술 답사에 주체로 참가하게 되었다는 것이었다.",0,$,$,$,$,$
+313,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성은 도대체 이런 소식들을 어떻게 알고서
+어떻게 이렇게 행사가 있을 때마다 참가하고 있는 걸까.",0,$,$,$,$,$
+314,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"고등학교 때는 아무것도 안 해도 반에서 일어나는 상황을 다 알 수 있었는데
+대학교에 올라오니 이젠 관심이 없으면 무슨 일이 일어나는지 알기도 어렵게 되었다.",0,$,$,$,$,$
+315,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"아무튼 학과 답사는 이제까지 새터랑은 조금 다르게
+교수님이 개입하는 엄연한 수업의 일종이다.",0,$,$,$,$,$
+316,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"“안 그래도 한 명 더 참가하면 좋겠다고 생각했는데 어때?
+교수님이나 선배랑 이야기해 볼 수 있는 기회도 될 거야.”",0,$,$,$,$,$
+317,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"마치 내가 들어올 것을 예상하기라도 한 듯
+수상하게 남아있는 답사 주체 한자리에 박진성은 나를 추천한다.",0,$,$,$,$,$
+318,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,"하지만 박진성의 말처럼 주체로 참가하면
+평소에는 얻을 수 없었던 경험을 얻을 수 있을 지도 모르겠다…",0,$,$,$,$,$
+319,1,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_right.png,1,$,$,,0,답사 주체에 참가한다.,320,답사 주체에 참가하지 않는다.,325,$
+320,0,backgroundimage20.png,music9.mp3,character16_left.png,0,character32_mid.png,1,character41_right.png,2,활동은 힘들 것 같지만 얻을 수 있는 게 많을 것 같아서 주체에 참가하기로 했다.,0,$,$,$,$,$
+321,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,그리고 예상대로 앞으로의 일정은 바쁘게 돌아갔다.,0,$,$,$,$,$
+322,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,"교수님과 여러 번 회의를 하고
+주체들끼리도 여러 번 회의를 하고
+지역이 정해지면 답사도 한 번 가보고…",0,$,$,$,$,$
+323,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,"이전까지 공부만 하던 나에게
+이 경험은 정말 새로운 경험이었다.",0,$,$,$,$,$
+324,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,"공부를 하러 가는 답사를 준비하는 과정이었지만¸
+그 답사를 준비하는 과정에서 배운 게 더 많았던 나날이었다.",332,$,$,$,$,$
+325,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"박진성의 말처럼 이것저것 배울 수 있는 건 많을 것 같았지만¸
+예정 일정을 듣고 스케줄이 너무 빡빡해질 것 같아 거절했다.",0,$,$,$,$,$
+326,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,"“너 성격이면 거절할 것 같기는 했어¸
+나도 한 번 장난으로 던져봤어.”",0,$,$,$,$,$
+327,0,backgroundimage20.png,music9.mp3,character1_left.png,0,character32_mid.png,1,character41_right.png,2,박진성은 농담조로 그렇게 이야기했다.,0,$,$,$,$,$
+328,0,backgroundimage12.png,music9.mp3,$,$,$,$,$,$,"나는 과방에서 내 개인적인 볼일을 다 본 뒤¸
+회의에 열중하기 시작한 주체 팀을 두고 과방을 나섰다.",332,$,$,$,$,$
+329,0,backgroundimage5.png,music11.mp3,$,$,$,$,$,$,"드디어 대학생에 들어왔다는 마음과 열정으로
+여러 가지 활동들을 의욕적으로 해냈다.",0,$,$,$,$,$
+330,0,backgroundimage27.png,music11.mp3,$,$,$,$,$,$,"공부부터 과 행사¸ 축제 등등…
+대학교에 들어온 이래로 내 시간은 빠르게 흘러갔다.",0,$,$,$,$,$
+331,0,backgroundimage12.png,music11.mp3,$,$,$,$,$,$,"하지만 아무래도 평소에 안 하던 일을 했던 탓일까…
+몸 상태가 무겁다…",337,$,$,$,$,$
+332,0,backgroundimage5.png,music16.mp3,$,$,$,$,$,$,이런저런 활동들을 하면서 1학년을 충실하게 보냈다.,0,$,$,$,$,$
+333,0,backgroundimage27.png,music16.mp3,$,$,$,$,$,$,"공부도 만족할 만큼 해냈고¸
+학과 행사나 여러 학교 활동에도 이 정도면 잘 참가한 것 같다.",0,$,$,$,$,$
+334,0,backgroundimage1.png,music16.mp3,$,$,$,$,$,$,"이제 대학교에서 어떻게 보내면 될지
+조금은 감이 잡히는 기분이 든다.",338,$,$,$,$,$
+335,0,ending1.png,gameover.mp3,$,$,$,$,$,$,"처음부터 꼬이기 시작한 흐름을 다시 잡는 건 쉽지 않은 일이었다.
+힘든 결정이었지만¸ 처음부터 성적을 망치고 싶지 않아서 반수하기로 했다.
+“무엇이든 첫 단추가 제일 중요한 법이다..”",20,$,$,$,$,$
+336,0,ending2.png,gameover.mp3,$,$,$,$,$,$,"한두 번 노는 것에 눈을 뜨니 학업보단 노는 일이 더 즐거워졌다.
+대신 나는 열심히 논 것에 대한 대가를 학고를 맞는 것으로 치러야 했다.
+“늦바람이 더 강하게 분다는 말은 정설인 것 같다...”",104,$,$,$,$,$
+337,0,ending3.png,gameover.mp3,$,$,$,$,$,$,"너무 의욕적이었던 탓일까¸ 몸이 버티지 못하고 무너져버렸다.
+갑작스럽게 모든 것을 다 하기보단 적당히 걸러가면서 하는 게 좋았을 지도 모르겠다.
+“열정은 좋지만 너무 과하지는 않아도 된다...”",220,$,$,$,$,$
+338,0,ending4.png,gameclear.mp3,$,$,$,$,$,$,"유하진은 1학년을 무사히 마무리했습니다!
+다음 2학년은 어떻게 지내게 될까요?",0,$,$,$,$,$
